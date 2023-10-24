@@ -1,2 +1,2 @@
-This Project is part of the TOP (The ODin Project).
+This Project is part of the TOP (The Odin Project).
 After finishing this project I should have  general knowedge about building a website with basic HTML. It will include relative links, text formatting, images etc.
